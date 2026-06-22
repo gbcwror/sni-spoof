@@ -1,0 +1,11 @@
+{
+  "listen_host": "0.0.0.0",
+  "listen_port": 40443,
+  "connect_ip": "188.114.98.0",
+  "connect_port": 443,
+  "fake_sni": "auth.vercel.com",
+  "bypass_method": "wrong_seq",
+  "worker_threads": 4,
+  "connection_timeout_secs": 10,
+  "log_level": "info"
+}
